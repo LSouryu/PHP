@@ -10,9 +10,9 @@ while($l == 0){
     $choix = readline ("votre choix : ");
     switch($choix){
         case 1 :
-            require("+G+P_Jeu1.php");
+            require("GP_Jeu1.php");
         case 2 :
-            require("+G+P_Jeu2.php");
+            require("GP_Jeu2.php");
         case 3 :
             exit("bonne journée");
         default;

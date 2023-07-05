@@ -40,7 +40,7 @@ while($d == 0){
                         switch($continue){
                             case 1 :
                                 echo "retour au menu" . "\n" . "\n";
-                                require("+G+P_menu.php");
+                                require("GP_menu.php");
                             case 2 :
                                 break 2;
                         }

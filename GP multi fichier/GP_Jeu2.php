@@ -65,7 +65,7 @@ while($e == 0){
                     break 2;
                 case 2 : 
                     echo "retour au menu" . "\n" . "\n";
-                    require("+G+P_menu.php");
+                    require("GP_menu.php");
             }
         } 
     }
