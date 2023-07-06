@@ -1,6 +1,5 @@
 <?php
 $a = false; $b = false; $c = false;
-var_dump(!$a);
 $age = readline("indiquer votre age : ") . "\n";
 $agepermie = readline("depuis combient de temps avez-vous votre permie ? ") . "\n";
 $accident = readline("nombre d'accident (si aucun : 0) : ") . "\n";
